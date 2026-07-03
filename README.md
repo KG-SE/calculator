@@ -29,14 +29,12 @@ This project demonstrates basic arithmetic operations along with interactive UI 
 
 ## 📸 Screenshots
 
-### Work UI
-![Multiply UI](./screenshots/addition.png)
+### Working UI
+![Multiplication UI](./screenshots/addition.png)
 
 ### Result UI
 ![Result UI](./screenshots/result.png)
 
-### Off UI
-![Off UI](./screenshots/off.png)
 ---
 
 ## 💡 What I Learned
@@ -55,15 +53,16 @@ style.css
 script.js
 screenshots/
 ```
+
+---
+
+This project helped me to improved my HTML, CSS & JavaScript (ES6) concepts and frontend development skills
+
+---
+
 ## 👨‍💻 Author
 **Kashan Ghori**  
 🔗 https://github.com/KG-SE
-
----
-
-This project helped me to improved my JavaScript (ES6) concepts and frontend development skills
-
----
 
 ## 🤝 Connect with Me
 
