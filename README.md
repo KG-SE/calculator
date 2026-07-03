@@ -1,6 +1,6 @@
 # 🧮 JavaScript Calculator
 
-A modern and responsive calculator built using **HTML, CSS, and JavaScript**.  
+A responsive calculator built using **HTML, CSS, and JavaScript(ES6)**.  
 This project demonstrates basic arithmetic operations along with interactive UI and ON/OFF functionality.
 
 ## 📸 Preview
@@ -25,24 +25,24 @@ This project demonstrates basic arithmetic operations along with interactive UI 
 
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript (ES6) 
 
 ## 📸 Screenshots
 
-### Addition Screen
-![Win](./screenshots/addition.png)
+### Work UI
+![Multiply UI](./screenshots/addition.png)
 
-### Result Screen
-![Lose](./screenshots/result.png)
+### Result UI
+![Result UI](./screenshots/result.png)
 
-### Off Screen
-![Draw](./screenshots/off.png)
+### Off UI
+![Off UI](./screenshots/off.png)
 ---
 
 ## 💡 What I Learned
 
 - DOM Manipulation  
-- Event Handling  
+- Eval Function
 - Building interactive web applications  
 - Improving UI design with CSS  
 
@@ -58,6 +58,10 @@ screenshots/
 ## 👨‍💻 Author
 **Kashan Ghori**  
 🔗 https://github.com/KG-SE
+
+---
+
+This project helped me to improved my JavaScript (ES6) concepts and frontend development skills
 
 ---
 
