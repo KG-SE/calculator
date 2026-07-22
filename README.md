@@ -74,4 +74,3 @@ Feel free to connect with me on LinkedIn and check out my projects!
 
 ## 👨‍💻 Author
 **Kashan Ghori**  
-Frontend Developer | Software Engineer
