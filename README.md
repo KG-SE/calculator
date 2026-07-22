@@ -60,14 +60,17 @@ This project helped me to improved my HTML, CSS & JavaScript (ES6) concepts and 
 
 ---
 
-## 👨‍💻 Author
-**Kashan Ghori**  
-🔗 https://github.com/KG-SE
-
 ## 🤝 Connect with Me
 
 Feel free to connect with me on LinkedIn and check out my projects!
 
+⭐ If you like this project, don't forget to star the repository!
+
+[🔗Linkedin](https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
+
+[🔗GitHub](https://github.com/KG-SE)
+
 ---
 
-⭐ If you like this project, don't forget to star the repository!
+## 👨‍💻 Author
+**Kashan Ghori**  
